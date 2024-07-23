@@ -19,7 +19,7 @@ Programming languages: C#
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 
 - [Web Site Name](https://stackoverflow.com/questions/6097513/switch-statement-inside-a-switch-statement)
 - [Web Site Name](https://www.w3schools.com/cs/cs_switch.php)
