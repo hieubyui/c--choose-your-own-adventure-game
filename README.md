@@ -21,8 +21,8 @@ Programming languages: C#
 
 
 
-- [Web Site Name](https://stackoverflow.com/questions/6097513/switch-statement-inside-a-switch-statement)
-- [Web Site Name](https://www.w3schools.com/cs/cs_switch.php)
+- [stackoverflow](https://stackoverflow.com/questions/6097513/switch-statement-inside-a-switch-statement)
+- [w3schools](https://www.w3schools.com/cs/cs_switch.php)
 
 # Future Work
 
